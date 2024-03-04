@@ -1,5 +1,5 @@
 ### dashscopego
-
+forked from devinyf/dashscopego
 阿里云平台 dashscope api 的 golang 封装 (非官方)
 
 [开通DashScope并创建API-KEY](https://help.aliyun.com/zh/dashscope/developer-reference/activate-dashscope-and-create-an-api-key)
