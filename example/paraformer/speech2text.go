@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/devinyf/dashscopego"
-	"github.com/devinyf/dashscopego/paraformer"
+	"github.com/eswulei/dashscope-go"
+	"github.com/eswulei/dashscope-go/paraformer"
 )
 
 func main() {

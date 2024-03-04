@@ -22,8 +22,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/devinyf/dashscopego"
-	"github.com/devinyf/dashscopego/qwen"
+	"github.com/eswulei/dashscope-go"
+	"github.com/eswulei/dashscope-go/qwen"
 )
 
 func main() {
@@ -266,8 +266,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/devinyf/dashscopego"
-	"github.com/devinyf/dashscopego/paraformer"
+	"github.com/eswulei/dashscope-go"
+	"github.com/eswulei/dashscope-go/paraformer"
 )
 
 func main() {

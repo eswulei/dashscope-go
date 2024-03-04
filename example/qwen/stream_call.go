@@ -2,12 +2,12 @@ package main
 
 import (
 	"context"
-	"github.com/devinyf/dashscopego/embedding"
+	"github.com/eswulei/dashscope-go/embedding"
 	"log"
 	//"os"
 
-	"github.com/devinyf/dashscopego"
-	"github.com/devinyf/dashscopego/qwen"
+	"github.com/eswulei/dashscope-go"
+	"github.com/eswulei/dashscope-go/qwen"
 )
 
 func main() {
@@ -38,7 +38,7 @@ func main() {
 	//	Input:       input,
 	//	StreamingFn: streamCallbackFn,
 	//}
-	req:=&embedding.Request{
+	req := &embedding.Request{
 		Input: struct {
 			Texts []string `json:"texts"`
 		}{

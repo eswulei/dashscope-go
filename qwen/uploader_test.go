@@ -56,7 +56,7 @@ func TestUploadingImageFromURL(t *testing.T) {
 	apiKey := getAPIKey(t)
 
 	// network problem...
-	// testImgURL := "https://github.com/devinyf/dashscopego/blob/main/docs/static/img/parrot-icon.png"
+	// testImgURL := "https://github.com/eswulei/dashscope-go/blob/main/docs/static/img/parrot-icon.png"
 	testImgURL := "https://pic.ntimg.cn/20140113/8800276_184351657000_2.jpg"
 
 	ctx := context.TODO()
